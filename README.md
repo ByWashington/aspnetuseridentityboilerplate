@@ -4,8 +4,8 @@ A starting point for building API with UserIdentity.
 
 ## Built with
 
-ASP.NET Core 6
-Entity Framework Core 6
+- ASP.NET Core 6
+- Entity Framework Core 6
 
 ## Features Included
 
