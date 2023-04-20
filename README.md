@@ -2,6 +2,20 @@
 
 A starting point for building API with UserIdentity.
 
+## Built with
+
+ASP.NET Core 6
+Entity Framework Core 6
+
+## Features Included
+
+ASP.NET Core Identity
+Permissions Management based on Role Claims
+Serilog
+Automapper
+JWT & Refresh Tokens
+Swagger
+
 ## Entity Framework Migrations
 
 An Entity Framework Migration is an automated and structured way to update the database schema of a .NET application based on changes to the entity model.
