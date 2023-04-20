@@ -9,12 +9,12 @@ Entity Framework Core 6
 
 ## Features Included
 
-ASP.NET Core Identity
-Permissions Management based on Role Claims
-Serilog
-Automapper
-JWT & Refresh Tokens
-Swagger
+- ASP.NET Core Identity
+- Permissions Management based on Role Claims
+- Serilog
+- Automapper
+- JWT & Refresh Tokens
+- Swagger
 
 ## Entity Framework Migrations
 
